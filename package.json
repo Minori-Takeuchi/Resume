@@ -1,0 +1,11 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Minori-Takeuchi/Resume.git",
+  "author": "Minori-Takeuchi <shato.min0716@gmeail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "textlint": "^13.3.3"
+  }
+}
